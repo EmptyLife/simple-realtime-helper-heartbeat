@@ -1,0 +1,7 @@
+{
+  "author": "EmptyLife",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "simple-realtime-helper-heartbeat",
+  "version": "1.0.0"
+}
